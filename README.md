@@ -12,8 +12,8 @@ The first line contains a single integer, **N**, numbers of coordinates.
 The **N** subsequent line contains a single coordinates **X**  **Y**
 
 ### Constraints
-4 $\le$ **N** $\le$ INFINITE <br>
-NEGATIVE INFINITE $\le$ **N** $\le$ INFINITE <br>
+<img src="https://latex.codecogs.com/svg.image?4\leq&space;\textbf{N}&space;\leq&space;\infty" title="4\leq \textbf{N} \leq \infty" alt="4 <= N <= Inf"/>
+<img src="https://latex.codecogs.com/svg.image?-\infty&space;\leq&space;\textbf{X,&space;Y}&space;\leq&space;\infty" title="-\infty \leq \textbf{X, Y} \leq \infty" alt="Negative Inf <= X, Y <= Inf"/>
 
 ### Sample Input 1
 > 5 <br> 
