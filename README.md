@@ -17,11 +17,11 @@ NEGATIVE INFINITE $\le$ **N** $\le$ INFINITE <br>
 
 ### Sample Input 1
 > 5 <br> 
-100 150 <br>
+1 1 <br>
 3 150 <br>
-100 400 <br>
-3 400 <br>
-0 0 <br>
+9 2 <br>
+9 1 <br>
+1 2 <br>
 
 ### Sample Output 1
 > It is possible <br>
@@ -30,7 +30,7 @@ One of rectangle: [[1, 1], [1, 2], [9, 1], [9, 2]]
 ### Sample Input 2
 >4 <br>
 3 3 <br>
--3 - <br>
+-3 -3 <br>
 4 3 <br>
 -4 -3 <br>
 
